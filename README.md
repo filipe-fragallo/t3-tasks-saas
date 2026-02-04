@@ -42,7 +42,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 ### 1) Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/filipe-fragallo/t3-tasks-saas.git
 cd t3-tasks-saas
 ```
 
