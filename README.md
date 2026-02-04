@@ -2,6 +2,12 @@
 
 Aplicação full stack construída com a T3 Stack simulando um produto SaaS real com autenticação, dashboard e gerenciamento de tarefas.
 
+Projeto deployado:
+```bash
+https://t3-tasks-saas.vercel.app/sign-in
+```
+https://t3-tasks-saas.vercel.app/sign-in
+
 Este projeto demonstra:
 
 - Tipagem forte ponta a ponta
